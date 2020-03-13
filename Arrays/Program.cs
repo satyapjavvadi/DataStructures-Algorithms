@@ -6,7 +6,8 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            HourGlass.Test();
+            // HourGlass.Test();
+            BubbleSort.Test();
         }
     }
 }
