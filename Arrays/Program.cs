@@ -9,7 +9,8 @@ namespace Arrays
             // HourGlass.Test();
             //BubbleSort.Test();
             //BinarySearch.Test();
-            LargestContiguousSum.Test();
+            //LargestContiguousSum.Test();
+            FindMissingNumber.Test();
         }
     }
 }
