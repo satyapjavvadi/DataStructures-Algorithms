@@ -7,7 +7,8 @@ namespace Arrays
         static void Main(string[] args)
         {
             // HourGlass.Test();
-            BubbleSort.Test();
+            //BubbleSort.Test();
+            BinarySearch.Test();
         }
     }
 }
