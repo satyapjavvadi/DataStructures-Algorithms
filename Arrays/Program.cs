@@ -8,7 +8,8 @@ namespace Arrays
         {
             // HourGlass.Test();
             //BubbleSort.Test();
-            BinarySearch.Test();
+            //BinarySearch.Test();
+            LargestContiguousSum.Test();
         }
     }
 }
