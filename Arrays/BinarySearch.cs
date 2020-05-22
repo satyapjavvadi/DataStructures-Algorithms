@@ -1,7 +1,7 @@
 ﻿using System;
+
 namespace Arrays
 {
-
 	public class BinarySearch
 	{
 		public static int SearchIndex(int[] arr, int val, int start, int end)
@@ -25,9 +25,7 @@ namespace Arrays
 				else
                 {
 					return SearchIndex(arr, val, start, mid-1);
-                }
-
-			
+                }			
         }
 
 		public static void Test()
