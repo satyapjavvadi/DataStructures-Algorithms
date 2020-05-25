@@ -10,7 +10,8 @@ namespace Arrays
             //BubbleSort.Test();
             //BinarySearch.Test();
             //LargestContiguousSum.Test();
-            FindMissingNumber.Test();
+            //FindMissingNumber.Test();
+            SortArray012.Test();
         }
     }
 }
