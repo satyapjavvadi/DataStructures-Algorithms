@@ -11,7 +11,8 @@ namespace Arrays
             //BinarySearch.Test();
             //LargestContiguousSum.Test();
             //FindMissingNumber.Test();
-            SortArray012.Test();
+            //SortArray012.Test();
+            EquilibriumIndex.Test();
         }
     }
 }
