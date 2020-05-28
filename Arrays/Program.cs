@@ -12,7 +12,8 @@ namespace Arrays
             //LargestContiguousSum.Test();
             //FindMissingNumber.Test();
             //SortArray012.Test();
-            EquilibriumIndex.Test();
+            //EquilibriumIndex.Test();
+            PrintElementsGreaterRightside.Test();
         }
     }
 }
