@@ -13,7 +13,8 @@ namespace Arrays
             //FindMissingNumber.Test();
             //SortArray012.Test();
             //EquilibriumIndex.Test();
-            PrintElementsGreaterRightside.Test();
+            //PrintElementsGreaterRightside.Test();
+            SearchValueinArray.Test();
         }
     }
 }
