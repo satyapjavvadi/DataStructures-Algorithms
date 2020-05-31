@@ -15,7 +15,8 @@ namespace Arrays
             //EquilibriumIndex.Test();
             //PrintElementsGreaterRightside.Test();
             //SearchValueinArray.Test();
-            FirstOccurenceofaValuecs.Test();
+            //FirstOccurenceofaValuecs.Test();
+            AverageofSubArraySizeK.Test();
         }
     }
 }
