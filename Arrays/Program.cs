@@ -14,7 +14,8 @@ namespace Arrays
             //SortArray012.Test();
             //EquilibriumIndex.Test();
             //PrintElementsGreaterRightside.Test();
-            SearchValueinArray.Test();
+            //SearchValueinArray.Test();
+            FirstOccurenceofaValuecs.Test();
         }
     }
 }
