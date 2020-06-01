@@ -16,7 +16,8 @@ namespace Arrays
             //PrintElementsGreaterRightside.Test();
             //SearchValueinArray.Test();
             //FirstOccurenceofaValuecs.Test();
-            AverageofSubArraySizeK.Test();
+            //AverageofSubArraySizeK.Test();
+            MaxSumSubArray.Test();
         }
     }
 }
