@@ -18,7 +18,8 @@ namespace Arrays
             //FirstOccurenceofaValuecs.Test();
             //AverageofSubArraySizeK.Test();
             //MaxSumSubArray.Test();
-            SearchValueDifferenceisK.Test();
+            //SearchValueDifferenceisK.Test();
+            LongestSubstringKdistinctChar.Test();
         }
     }
 }
