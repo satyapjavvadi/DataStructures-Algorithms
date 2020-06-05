@@ -42,10 +42,9 @@ namespace Arrays
         }
         public static void Test()
         {
-            string str = "araaci";
-            int K = 2;
-            int l = findLength(str, K);
-            Console.WriteLine(l);
+            Console.WriteLine(findLength("araaci", 2));
+            Console.WriteLine(findLength("araaci", 1));
+            Console.WriteLine(findLength("cbbebi", 3));
         }
     }
 }
