@@ -20,7 +20,8 @@ namespace Arrays
             //MaxSumSubArray.Test();
             //SearchValueDifferenceisK.Test();
             //LongestSubstringKdistinctChar.Test();
-            FruitsintoBaskets.Test();
+            //FruitsintoBaskets.Test();
+            FirstRepeatValueinArray.Test();
         }
     }
 }
