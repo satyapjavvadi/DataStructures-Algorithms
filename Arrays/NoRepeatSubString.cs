@@ -19,7 +19,7 @@ namespace Arrays
                 }
                 else
                 {
-                    dict.Remove(str[winStart]);
+                    dict.Clear();
                     winStart = winEnd;
                 }
                 max_Length = Math.Max(max_Length, winEnd - winStart + 1);
