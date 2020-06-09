@@ -9,17 +9,17 @@ namespace Arrays
     {
         public static int FindFirstRepeatValue(int[] arr)
         {
-            HashSet<int> hashtable = new HashSet<int>();
+            HashSet<int> hash = new HashSet<int>();
 
             for(int i = 0; i < arr.Length; i++)
             {
-                if(hashtable.Contains(arr[i]))
+                if(hash.Contains(arr[i]))
                 {
                     return arr[i];
                 }
                 else
                 {
-                    hashtable.Add(arr[i]);
+                    hash.Add(arr[i]);
                 }
             }
             return -1;

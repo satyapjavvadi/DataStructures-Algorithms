@@ -21,7 +21,8 @@ namespace Arrays
             //SearchValueDifferenceisK.Test();
             //LongestSubstringKdistinctChar.Test();
             //FruitsintoBaskets.Test();
-            FirstRepeatValueinArray.Test();
+            //FirstRepeatValueinArray.Test();
+            NoRepeatSubString.Test();
         }
     }
 }
