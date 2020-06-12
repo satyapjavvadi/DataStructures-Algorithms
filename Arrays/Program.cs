@@ -22,7 +22,9 @@ namespace Arrays
             //LongestSubstringKdistinctChar.Test();
             //FruitsintoBaskets.Test();
             //FirstRepeatValueinArray.Test();
-            NoRepeatSubString.Test();
+            //NoRepeatSubString.Test();
+            //LongestSubStringWithSameLetters.Test();
+            PairWithTargetSum.Test();
         }
     }
 }
