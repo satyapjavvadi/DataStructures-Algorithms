@@ -24,7 +24,8 @@ namespace Arrays
             //FirstRepeatValueinArray.Test();
             //NoRepeatSubString.Test();
             //LongestSubStringWithSameLetters.Test();
-            PairWithTargetSum.Test();
+            //PairWithTargetSum.Test();
+            RemoveDuplicates.Test();
         }
     }
 }
