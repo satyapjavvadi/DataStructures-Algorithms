@@ -26,7 +26,8 @@ namespace Arrays
             //LongestSubStringWithSameLetters.Test();
             //PairWithTargetSum.Test();
             //RemoveDuplicates.Test();
-            RemoveKeyinArray.Test();
+            //RemoveKeyinArray.Test();
+            SortedArraySquares.Test();
         }
     }
 }
