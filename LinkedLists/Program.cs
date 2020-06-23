@@ -7,7 +7,8 @@ namespace LinkedLists
         static void Main(string[] args)
         {
             //CreateLinkedList.Test();
-            LinkedListCycle.Test();
+            //LinkedListCycle.Test();
+            LengthofLinkedListCycle.Test();
         }
     }
 }
