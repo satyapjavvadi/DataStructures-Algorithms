@@ -8,7 +8,8 @@ namespace LinkedLists
         {
             //CreateLinkedList.Test();
             //LinkedListCycle.Test();
-            LengthofLinkedListCycle.Test();
+            //LengthofLinkedListCycle.Test();
+            LinkedListCycleStart.Test();
         }
     }
 }
