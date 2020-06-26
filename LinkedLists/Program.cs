@@ -9,7 +9,8 @@ namespace LinkedLists
             //CreateLinkedList.Test();
             //LinkedListCycle.Test();
             //LengthofLinkedListCycle.Test();
-            LinkedListCycleStart.Test();
+            //LinkedListCycleStart.Test();
+            HappyNumber.Test();
         }
     }
 }
