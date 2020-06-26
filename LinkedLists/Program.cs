@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace LinkedLists
-{ 
+{
     class Program
     {
         static void Main(string[] args)
@@ -11,7 +11,10 @@ namespace LinkedLists
             //LengthofLinkedListCycle.Test();
             //LinkedListCycleStart.Test();
             //HappyNumber.Test();
-            MiddleoftheLinkedList.Test();
+            //MiddleoftheLinkedList.Test();
+            PalindriomicLinkedList.Test();
+
         }
     }
 }
+                                                                    
