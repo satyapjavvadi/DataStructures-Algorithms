@@ -12,7 +12,8 @@ namespace LinkedLists
             //LinkedListCycleStart.Test();
             //HappyNumber.Test();
             //MiddleoftheLinkedList.Test();
-            PalindriomicLinkedList.Test();
+            //PalindriomicLinkedList.Test();
+            RearrageList.Test();
 
         }
     }
