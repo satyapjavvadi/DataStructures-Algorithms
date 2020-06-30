@@ -7,7 +7,8 @@ namespace Recursion
         static void Main(string[] args)
         {
             //Factorial.Test();
-            Square.Test();
+            //Square.Test();
+            PrintFirst20Integers.Test();
         }
     }
 }
