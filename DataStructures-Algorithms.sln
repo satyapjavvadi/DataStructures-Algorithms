@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{E0F451E5-C4CE-4877-A52D-116A9DADF21A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{932D0C12-8C31-4F27-967A-22A8A623E0FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{932D0C12-8C31-4F27-967A-22A8A623E0FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{D1E23409-9A61-4AB2-BFED-8FA4830A6D32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{932D0C12-8C31-4F27-967A-22A8A623E0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{932D0C12-8C31-4F27-967A-22A8A623E0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{932D0C12-8C31-4F27-967A-22A8A623E0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E23409-9A61-4AB2-BFED-8FA4830A6D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E23409-9A61-4AB2-BFED-8FA4830A6D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E23409-9A61-4AB2-BFED-8FA4830A6D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E23409-9A61-4AB2-BFED-8FA4830A6D32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

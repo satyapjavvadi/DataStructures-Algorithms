@@ -13,7 +13,8 @@ namespace LinkedLists
             //HappyNumber.Test();
             //MiddleoftheLinkedList.Test();
             //PalindriomicLinkedList.Test();
-            RearrageList.Test();
+            // RearrageList.Test();
+            SwapNodeinList.Test();
 
         }
     }
