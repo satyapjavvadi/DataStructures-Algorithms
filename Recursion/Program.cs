@@ -6,7 +6,8 @@ namespace Recursion
     {
         static void Main(string[] args)
         {
-            Factorial.Test();
+            //Factorial.Test();
+            Square.Test();
         }
     }
 }
