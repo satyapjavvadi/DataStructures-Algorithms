@@ -14,7 +14,8 @@ namespace LinkedLists
             //MiddleoftheLinkedList.Test();
             //PalindriomicLinkedList.Test();
             // RearrageList.Test();
-            SwapNodeinList.Test();
+            //SwapNodeinList.Test();
+            ReverseLinkedList.Test();
 
         }
     }

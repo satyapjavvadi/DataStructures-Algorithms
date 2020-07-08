@@ -6,8 +6,8 @@ namespace Sorting
     {
         static void Main(string[] args)
         {
-            //CyclicSort.Test();
-            MissingNumber.Test();
+            CyclicSort.Test();
+           // MissingNumber.Test();
         }
     }
 }
