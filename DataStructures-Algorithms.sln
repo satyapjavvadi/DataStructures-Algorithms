@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{932D0C12-8C31-4F27-967A-22A8A623E0FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{D1E23409-9A61-4AB2-BFED-8FA4830A6D32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{D1E23409-9A61-4AB2-BFED-8FA4830A6D32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{7300DF74-0E79-419B-AC14-1BB85E8BE42A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting", "Sorting\Sorting.csproj", "{7300DF74-0E79-419B-AC14-1BB85E8BE42A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeBFS", "TreeBFS\TreeBFS.csproj", "{84A44804-86FF-4FAE-B74E-5AFC1899CDBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{7300DF74-0E79-419B-AC14-1BB85E8BE42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7300DF74-0E79-419B-AC14-1BB85E8BE42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7300DF74-0E79-419B-AC14-1BB85E8BE42A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A44804-86FF-4FAE-B74E-5AFC1899CDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A44804-86FF-4FAE-B74E-5AFC1899CDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A44804-86FF-4FAE-B74E-5AFC1899CDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A44804-86FF-4FAE-B74E-5AFC1899CDBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

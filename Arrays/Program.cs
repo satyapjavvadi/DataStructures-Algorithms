@@ -27,7 +27,8 @@ namespace Arrays
             //PairWithTargetSum.Test();
             //RemoveDuplicates.Test();
             //RemoveKeyinArray.Test();
-            SortedArraySquares.Test();
+            //SortedArraySquares.Test();
+            BinSearchSortedArray.Test();
         }
     }
 }
