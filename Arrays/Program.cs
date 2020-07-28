@@ -28,7 +28,8 @@ namespace Arrays
             //RemoveDuplicates.Test();
             //RemoveKeyinArray.Test();
             //SortedArraySquares.Test();
-            BinSearchSortedArray.Test();
+            //BinSearchSortedArray.Test();
+            BinarySearchIterative.Test();
         }
     }
 }

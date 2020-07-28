@@ -14,21 +14,19 @@ namespace Arrays
                 return -1;
             }
            
-                int mid = (low + high) / 2;
-                if (key == arr[mid])
-                {
-                    return mid;
-                }
-                if (key < arr[mid])
-                {
-                    return binSearch(arr, key, low, mid -1);
-                }
-                else
-                {
-                    return binSearch(arr, key, mid + 1, high);
-                }                
-                   
-            
+            int mid = (low + high) / 2;
+            if (key == arr[mid])
+            {
+              return mid;
+            }
+            if (key < arr[mid])
+            {
+              return binSearch(arr, key, low, mid -1);
+            }
+            else
+            {
+              return binSearch(arr, key, mid + 1, high);
+            }         
         }
         public static void Test()
         {
