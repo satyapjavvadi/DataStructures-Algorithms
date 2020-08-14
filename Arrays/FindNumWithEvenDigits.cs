@@ -8,11 +8,13 @@ namespace Arrays
     {
         public static int FindNumbers(int[] arr)
         {
-            int count = 0, evenDigits = 0;
+            int evenDigits = 0;
 
             for(int i = 0; i < arr.Length; i++)
             {
                 int num = arr[i];
+                int count = 0;
+
                 while(num > 0)
                 {
                     count++;
