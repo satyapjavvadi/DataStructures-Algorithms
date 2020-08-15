@@ -31,7 +31,8 @@ namespace Arrays
             //BinSearchSortedArray.Test();
             //BinarySearchIterative.Test();
             //MaxConsecutiveOnes.Test();
-            FindNumWithEvenDigits.Test();
+            //FindNumWithEvenDigits.Test();
+            SquaresOfSortedArray.Test();
         }
     }
 }
